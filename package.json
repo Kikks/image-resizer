@@ -1,0 +1,11 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Olufemi Okikioluwa <kikkyboysven@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.2",
+    "sharp": "^0.31.3"
+  }
+}
